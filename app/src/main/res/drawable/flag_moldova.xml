@@ -1,0 +1,19 @@
+<!-- res/drawable/flag_moldova.xml -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="300dp"
+    android:height="200dp"
+    android:viewportWidth="300"
+    android:viewportHeight="200">
+    <!-- Синий столбец -->
+    <path
+        android:fillColor="#0033a0"
+        android:pathData="M0,0h100v200H0z"/>
+    <!-- Желтый столбец -->
+    <path
+        android:fillColor="#ffd700"
+        android:pathData="M100,0h100v200H100z"/>
+    <!-- Красный столбец -->
+    <path
+        android:fillColor="#d20000"
+        android:pathData="M200,0h100v200H200z"/>
+</vector>

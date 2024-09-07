@@ -1,4 +1,4 @@
-package com.example.wbnewproject
+package com.example.wbnewproject.Interesting
 
 import androidx.lifecycle.ViewModel
 import androidx.compose.runtime.mutableStateListOf

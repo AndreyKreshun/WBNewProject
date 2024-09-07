@@ -1,0 +1,13 @@
+<!-- res/drawable/flag_kazakhstan.xml -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="300dp"
+    android:height="200dp"
+    android:viewportWidth="300"
+    android:viewportHeight="200">
+    <path
+        android:fillColor="#00afca"
+        android:pathData="M0,0h300v200H0z"/>
+    <path
+        android:fillColor="#fdb913"
+        android:pathData="M150,70c16.57,0,30,13.43,30,30s-13.43,30-30,30-30-13.43-30-30,13.43-30,30-30zM150,160L170,140H130zM110,140L130,160H90zM190,140L170,160H210z"/>
+</vector>

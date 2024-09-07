@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- res/drawable/flag_armenia.xml -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="300dp"
+    android:height="200dp"
+    android:viewportWidth="300"
+    android:viewportHeight="200">
+    <path
+        android:fillColor="#d90012"
+        android:pathData="M0,0h300v66.67H0z"/>
+    <path
+        android:fillColor="#0033a0"
+        android:pathData="M0,66.67h300v66.67H0z"/>
+    <path
+        android:fillColor="#f2a800"
+        android:pathData="M0,133.33h300v66.67H0z"/>
+</vector>

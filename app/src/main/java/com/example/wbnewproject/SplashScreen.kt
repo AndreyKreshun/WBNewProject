@@ -29,7 +29,7 @@ fun SplashScreen(navController: NavHostController) {
     // Запускаем эффект для перехода на главный экран
     LaunchedEffect(Unit) {
         delay(3000) // Задержка на 3 секунды
-        navController.navigate("interesting") {
+        navController.navigate("verificationCode") {
             popUpTo("splash") { inclusive = true }
         }
     }
